@@ -1,4 +1,4 @@
-package com.i18ndemo;
+package com.example.i18ndemo;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
